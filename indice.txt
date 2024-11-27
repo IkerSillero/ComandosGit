@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola, mundo!
+=======
+Hacemos cambios para probar el stash
+
+>>>>>>> 5b2a764cc86262c159bb9d3d30277f06fc5a4a20
